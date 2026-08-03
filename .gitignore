@@ -22,3 +22,6 @@ xampp/
 
 # Composer
 /vendor/
+
+#text
+*.zip
