@@ -38,21 +38,20 @@ project/
 ├── .gitignore
 
 
-## Installation
+## Installation (XAMPP Setup)
 
-1. Clone repository
+1. Open terminal inside your XAMPP `htdocs` directory:
+   `cd C:/xampp/htdocs`
 
-git clone https://github.com/Kyaw-Khine-Aung-ucss/php-authentication-system
+2. Clone the repository:
+   `git clone https://github.com/Kyaw-Khine-Aung-ucss/php-authentication-system.git`
 
-2. Copy project to htdocs
+3. Import `auth_system.sql` into phpMyAdmin.
 
-3. Import auth_system.sql
+4. Start Apache and MySQL in XAMPP Control Panel.
 
-4. Start Apache and MySQL
-
-5. Open
-
-http://localhost/PHP_Login_System
+5. Open your browser and go to:
+    `http://localhost/PHP_Login_System`
 
 
 ## Future Features
