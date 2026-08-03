@@ -24,45 +24,6 @@ A simple authentication system built with PHP, MySQL and Bootstrap.
 
 ## Project Structure
 
-PHP_Login_System/
-│
-├── actions/
-├── config/
-├── photos/
-├── asset/
-├── index.php
-├── register.php
-├── profile.php
-├── edit-profile.php
-├── README.md
-├── .gitignore
-
-# PHP Login System
-
-A simple authentication system built with PHP, MySQL and Bootstrap.
-
-## Features
-
-- User Registration
-- User Login
-- User Logout
-- Password Hashing (password_hash)
-- Session Authentication
-- Edit Profile
-- Upload Profile Picture
-- MySQL Database
-- Prepared Statements (SQL Injection Protection)
-
-## Technologies
-
-- PHP
-- MySQL
-- Bootstrap 5
-- HTML
-- CSS
-
-## Project Structure
-
 project/
 │
 ├── actions/
